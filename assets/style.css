@@ -1,0 +1,46 @@
+.bg-teal-light {
+    background-color: #e0f2f1;
+}
+
+.bg-teal {
+    background-color: #008080;
+}
+
+.text-teal {
+    color: #008080;
+}
+
+.border-teal {
+    border-color: #008080;
+}
+
+.form-teal {
+    border-color: #008080;
+    box-shadow: rgba(0, 128, 128, 0.3) 0px 1px 2px 0px, rgba(0, 128, 128, 0.15) 0px 2px 6px 2px;
+}
+
+.btn-teal {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.btn-teal:hover {
+    background-color: #006666;
+    border-color: #006666;
+}
+
+.table-teal thead th {
+    background-color: #008080;
+    color: white;
+}
+
+.table-teal tbody tr:nth-child(even) {
+    background-color: #f0f9f9;
+}
+
+.logout-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
